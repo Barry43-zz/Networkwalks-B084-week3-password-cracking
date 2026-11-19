@@ -186,7 +186,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt</pre>
 
 <p>Interested in Cybersecurity, Ethical Hacking & Penetration Testing?</p>
 
-<p style="margin-top:10px"><a href="#">LinkedIn</a> • <a href="#">GitHub</a> • <a href="#">Portfolio</a></p>
+<p style="margin-top:10px"><a href="#">LinkedIn</a> https://www.linkedin.com/in/vincent-goodluck-43754636a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp1jdZLoiSG65%2BH79tPkGlg%3D%3D • 
 
 <p style="margin-top:12px">#Cybersecurity #EthicalHacking #JohnTheRipper #KaliLinux #PenetrationTesting</p>
 
